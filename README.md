@@ -22,13 +22,13 @@ If a user was to be doing a research project based on one of our filter categori
 
 Figure 1:
 
-![One Filter](/images/filter_by_state.png)
+![One Filter](static/images/filter_by_state.png)
 
 If the user needed to use multiple search criteria, they may use multiple input text boxes.
 
 Figure 2:
 
-![Multiple Filters](/images/filter_by_state_shape.png)
+![Multiple Filters](static/images/filter_by_state_shape.png)
 
 In figure two, California was used for the state and shape as “light” was used as filters for UFO sightings.
 
