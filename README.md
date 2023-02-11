@@ -24,7 +24,7 @@ Figure 1:
 
 ![One Filter](static/images/filter_by_state.png)
 
-If the user needed to use multiple search criteria, they may use multiple input text boxes.
+If the user needed to use multiple search criteria; they may use multiple input text boxes.
 
 Figure 2:
 
